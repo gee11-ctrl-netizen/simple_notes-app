@@ -1,0 +1,17 @@
+{
+  "name": "learn-mysql_nodejs",
+  "version": "1.0.0",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.4"
+  }
+}
